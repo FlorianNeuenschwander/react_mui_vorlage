@@ -1,7 +1,9 @@
+import Typography from "@mui/material/Typography";
+
 function App() {
   return (
     <div>
-      <h1>hallo welt</h1>
+      <Typography variant="h1">hallo welt</Typography>
     </div>
   );
 }
